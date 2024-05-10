@@ -1,4 +1,12 @@
-### Hi there 👋
+## 笨蛋皮卡丘 ✨
+Java 后端攻城狮
+
+## 本年汇总 ✨
+<img align="center" height="200" src="https://github-readme-stats-sand-one-31.vercel.app/api?username=cutepikachu-cn&show_icons=true&locale=cn&include_all_commits=true&hide_title=true" /><img align="center" height="200" src="https://github-readme-stats-sand-one-31.vercel.app/api/top-langs/?username=cutepikachu-cn&layout=compact&locale=cn&hide_title=true" />
+
+
+
+
 
 <!--
 **cutepikachu-cn/cutepikachu-cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
