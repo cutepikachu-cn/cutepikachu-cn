@@ -3,17 +3,17 @@ Java 后端攻城狮
 
 ## 本年汇总 ✨
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-sand-one-31.vercel.app/api?username=cutepikachu-cn&show_icons=true&locale=cn&include_all_commits=true&hide_title=true" />
   </a>
 </div>
 <div align="center">
-  <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+  <a target="_blank" align="center" href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-sand-one-31.vercel.app/api/top-langs/?username=cutepikachu-cn&layout=compact&locale=cn&hide_title=true" />
   </a>
 </div>
 <div align="center">
-  <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+  <a target="_blank" align="center" href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-sand-one-31.vercel.app/api/wakatime?username=cutepikachu_cn&layout=compact" />
   </a>
 </div>
