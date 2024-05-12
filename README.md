@@ -14,7 +14,7 @@ Java 后端攻城狮
 </div>
 <div align="center">
   <a target="_blank" align="center" href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-sand-one-31.vercel.app/api/wakatime?username=cutepikachu_cn&layout=compact" />
+    <img src="https://github-readme-stats-sand-one-31.vercel.app/api/wakatime?username=cutepikachu_cn&layout=compact&hide=other" />
   </a>
 </div>
 
