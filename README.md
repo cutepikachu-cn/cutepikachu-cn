@@ -1,5 +1,4 @@
 ## 笨蛋皮卡丘 ✨
-Java 后端攻城狮
 
 ## 本年汇总 ✨
 <div align="center">
